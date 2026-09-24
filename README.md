@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Resul, the CTO of NovaSafer</h1>
+<h1 align="center">Hi there 👋, I'm Resul, the CTO of Roftcore</h1>
 <h3 align="center">Driving technology and innovation to build secure digital futures</h3>
 
 <p align="center">
