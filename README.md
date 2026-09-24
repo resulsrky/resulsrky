@@ -6,7 +6,7 @@
 </p>
 
 🧠 About Me
-👨‍💼 CTO at NovaSafer Tech. Inc.
+👨‍💼 CTO at Roftcore Tech. Inc.
 
 🚀 Leading the Tech Department for SafeRoom, our flagship secure communication platform.
 
